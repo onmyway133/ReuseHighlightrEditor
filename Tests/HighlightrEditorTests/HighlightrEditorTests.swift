@@ -1,5 +1,5 @@
 import XCTest
-@testable import HighlightrEditor
+@testable import ReuseHighlightrEditor
 
 final class HighlightrEditorTests: XCTestCase {
     func testExample() throws {
